@@ -4,5 +4,6 @@ UE4 SQLite plugin  (4.20~4.27)
 - BluePrint Support
 - PC/Android/IOS Support
 - Light Weight
-
+- 
+DownLoad: https://github.com/sitonmoon/UE4SimpleSQLite/releases
 Demo Video: https://www.bilibili.com/video/BV1qr4y117L4
