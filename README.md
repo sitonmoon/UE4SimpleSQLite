@@ -6,5 +6,5 @@ UE4 SQLite plugin  (4.24~4.27)
 - Light Weight
 
 MarketPlace: https://www.unrealengine.com/marketplace/zh-CN/product/simplesqlite <br>
-DownLoad: https://github.com/sitonmoon/UE4SimpleSQLite/releases <br>
+Demo Project: https://github.com/sitonmoon/UE4SimpleSQLite/releases <br>
 Demo Video: https://www.bilibili.com/video/BV1qr4y117L4
